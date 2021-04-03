@@ -14,7 +14,7 @@
     <form action="http://www.ittehuacan.edu.mx/" >
 
       <table style=" table-layout: fixed;
-      width: 40%;
+      width: 60%;
       height: 700px;
       border-collapse: collapse;
       border: 3px solid black;"
