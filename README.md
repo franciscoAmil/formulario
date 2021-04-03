@@ -18,7 +18,6 @@
       <table style=" table-layout: fixed;
       width: 60%;
       height: 650px;
-      border-collapse: collapse;
       border: 3px solid black;"
       align="center">
       
@@ -87,7 +86,5 @@
         <td> </td>
           <td><input type="submit" value="guardar"></td>
         
-      
-    </form>
+     
 
-</html>
