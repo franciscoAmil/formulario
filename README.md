@@ -86,8 +86,8 @@
         </tr>
         <td> </td>
           <td><input type="submit" value="guardar"></td>
-        </tr>
-      </table>
+        
+      
     </form>
 
 </html>
