@@ -1,20 +1,23 @@
-<html>
-  <head>
-      <title>formulario de los alumnos</title>
-  </head>
-  
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+</head>
+<body>
           <img src="tecnm.png">
           <img src="logo.png" style="float: right;"> 
 
           <center>    
                     <h1 style="text-align: center;">FORMULARIO DE ALUMNOS DEL TECNOLOGICO </h1>
           </center>
-       
+          <hr>
       
     <form action="http://www.ittehuacan.edu.mx/" >
 
       <table style=" table-layout: fixed;
-      width: 50%;
+      width: 60%;
       height: 650px;
       border-collapse: collapse;
       border: 3px solid black;"
@@ -87,6 +90,5 @@
         </tr>
       </table>
     </form>
-
-
+</body>
 </html>
