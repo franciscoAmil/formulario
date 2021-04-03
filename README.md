@@ -15,7 +15,7 @@
       
     <form action="https://franciscoamil.github.io/formulario/" >
 
-      <table style=" table-layout: fixed;
+      <table style="
       width: 60%;
       height: 650px;
       border: 3px solid black;"
