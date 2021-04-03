@@ -5,7 +5,7 @@
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
           <title>Document</title>
 </head>
-<body>
+
           <img src="tecnm.png">
           <img src="logo.png" style="float: right;"> 
 
@@ -13,7 +13,7 @@
                     <h1 style="text-align: center;">FORMULARIO DE ALUMNOS DEL TECNOLOGICO </h1>
           </center>
       
-    <form action="http://www.ittehuacan.edu.mx/" >
+    <form action="https://franciscoamil.github.io/formulario/" >
 
       <table style=" table-layout: fixed;
       width: 60%;
@@ -89,5 +89,5 @@
         </tr>
       </table>
     </form>
-</body>
+
 </html>
