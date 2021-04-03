@@ -15,7 +15,7 @@
 
       <table style=" table-layout: fixed;
       width: 60%;
-      height: 700px;
+      height: 650px;
       border-collapse: collapse;
       border: 3px solid black;"
       align="center">
