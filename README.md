@@ -12,7 +12,6 @@
           <center>    
                     <h1 style="text-align: center;">FORMULARIO DE ALUMNOS DEL TECNOLOGICO </h1>
           </center>
-          <hr>
       
     <form action="http://www.ittehuacan.edu.mx/" >
 
